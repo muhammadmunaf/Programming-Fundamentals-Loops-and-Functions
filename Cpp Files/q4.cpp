@@ -1,6 +1,3 @@
-/* Muhammad Munaf Ul Hassan
-i200891 */
-
 #include <iostream>
 #include <iomanip>
 
